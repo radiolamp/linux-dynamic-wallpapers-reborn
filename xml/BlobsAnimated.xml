@@ -2,7 +2,7 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Blobs</name>
+    <name>BlobsAnimated</name>
     <filename>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
