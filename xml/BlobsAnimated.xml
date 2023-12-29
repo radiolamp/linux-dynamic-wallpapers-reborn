@@ -3,10 +3,10 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Blobs</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/Blobs.xml</filename>
+    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#3465a4</pcolor>
-    <scolor>#000000</scolor>
+    <pcolor>#071b29</pcolor>
+    <scolor>#1b273d</scolor>
   </wallpaper>
 </wallpapers>
