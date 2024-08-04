@@ -1,5 +1,5 @@
 <h1 align="center">Linux Dynamic Wallpapers</h1>
-<img src=Screenshots/SettingsScreenshot.png >
+<img src=screenshots/SettingsScreenshot.png >
 <p align="center">
 	<a href="https://www.gnome-look.org/p/1499429"><img src=https://img.shields.io/badge/Rank%20on%20Gnome--look.org-First-%23FFD700%20?logo=gnome&logoColor=lightgrey&labelColor=303030 /></a>
 </p>
@@ -9,127 +9,127 @@
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Globe 	   	              															        | Wiravketto 		     																     | Viragnegy												 					     	             | Viragharom															     			 |
-| <img src="Screenshots/Globe.gif" width="128" height="80"> 	   	              															        |<img src="Screenshots/Wiravketto.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Viragnegy.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Viragharom.gif" width="128" height="80">															     			 |
+| <img src="screenshots/Globe.gif" width="128" height="80"> 	   	              															        |<img src="screenshots/Wiravketto.gif" width="128" height="80"> 		     																     | <img src="screenshots/Viragnegy.gif" width="128" height="80">												 					     	             | <img src="screenshots/Viragharom.gif" width="128" height="80">															     			 |
 | Viragegy	   	              															        | Rocksketto		     																     | Rock 												 					     	             | Rocknegy														     			 |
-| <img src="Screenshots/Viragegy.gif" width="128" height="80"> 	   	              															       | <img src="Screenshots/Rocksketto.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Rock.gif" width="128" height="80"> 												 					     	     | <img src="Screenshots/Rocknegy.gif" width="128" height="80"> 															     			 |
+| <img src="screenshots/Viragegy.gif" width="128" height="80"> 	   	              															       | <img src="screenshots/Rocksketto.gif" width="128" height="80"> 		     																     | <img src="screenshots/Rock.gif" width="128" height="80"> 												 					     	     | <img src="screenshots/Rocknegy.gif" width="128" height="80"> 															     			 |
 | Material	   	              													        | Zorin Blur		     														     | Aura 												 		             | FluidifiedST 															     			 |
-| <img src="Screenshots/Material.gif" width="128" height="80">               		        | <img src="Screenshots/ZorinBlur.gif" width="128" height="80">		     	     | <img src="Screenshots/Aura.gif" width="128" height="80"> 		     | <img src="Screenshots/FluidifiedST.gif" width="128" height="80"> 															     			 |
+| <img src="screenshots/Material.gif" width="128" height="80">               		        | <img src="screenshots/ZorinBlur.gif" width="128" height="80">		     	     | <img src="screenshots/Aura.gif" width="128" height="80"> 		     | <img src="screenshots/FluidifiedST.gif" width="128" height="80"> 															     			 |
 | LofiCity | Hills | ChromeOSEarth | Ocean |
-| <img src="Screenshots/LofiCity.gif" width="128" height="80"> | <img src="Screenshots/Hills.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSEarth.gif" width="128" height="80"> | <img src="Screenshots/Ocean.gif" width="128" height="80"> |
+| <img src="screenshots/LofiCity.gif" width="128" height="80"> | <img src="screenshots/Hills.gif" width="128" height="80"> | <img src="screenshots/ChromeOSEarth.gif" width="128" height="80"> | <img src="screenshots/Ocean.gif" width="128" height="80"> |
 | DeadTree | MountainsIsland | ChromeOSFire | Solitude |
-| <img src="Screenshots/DeadTree.gif" width="128" height="80"> | <img src="Screenshots/MountainsIsland.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSFire.gif" width="128" height="80"> | <img src="Screenshots/Solitude.gif" width="128" height="80"> |
+| <img src="screenshots/DeadTree.gif" width="128" height="80"> | <img src="screenshots/MountainsIsland.gif" width="128" height="80"> | <img src="screenshots/ChromeOSFire.gif" width="128" height="80"> | <img src="screenshots/Solitude.gif" width="128" height="80"> |
 | ChromeOSBlues | ChromeOSGreens | ChromeOSReds | WaterHill |
-| <img src="Screenshots/ChromeOSBlues.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSGreens.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSReds.gif" width="128" height="80"> | <img src="Screenshots/WaterHill.gif" width="128" height="80"> |
+| <img src="screenshots/ChromeOSBlues.gif" width="128" height="80"> | <img src="screenshots/ChromeOSGreens.gif" width="128" height="80"> | <img src="screenshots/ChromeOSReds.gif" width="128" height="80"> | <img src="screenshots/WaterHill.gif" width="128" height="80"> |
 | ChromeOSWind | ChromeOSWater | SolidForest | ChromeOSYellows |
-| <img src="Screenshots/ChromeOSWind.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSWater.gif" width="128" height="80"> | <img src="Screenshots/SolidForest.gif" width="128" height="80"> | <img src="Screenshots/ChromeOSYellows.gif" width="128" height="80"> |
+| <img src="screenshots/ChromeOSWind.gif" width="128" height="80"> | <img src="screenshots/ChromeOSWater.gif" width="128" height="80"> | <img src="screenshots/SolidForest.gif" width="128" height="80"> | <img src="screenshots/ChromeOSYellows.gif" width="128" height="80"> |
 | SolidMountain | Plateau | SolidDesert | SolidIsland |
-| <img src="Screenshots/SolidMountain.gif" width="128" height="80"> | <img src="Screenshots/Plateau.gif" width="128" height="80"> | <img src="Screenshots/SolidDesert.gif" width="128" height="80"> | <img src="Screenshots/SolidIsland.gif" width="128" height="80"> |
+| <img src="screenshots/SolidMountain.gif" width="128" height="80"> | <img src="screenshots/Plateau.gif" width="128" height="80"> | <img src="screenshots/SolidDesert.gif" width="128" height="80"> | <img src="screenshots/SolidIsland.gif" width="128" height="80"> |
 | Moon Far View | Red Circles | Chrome Deep Dark | Winter is leaving |
-| <img src="Screenshots/MoonFarView.gif" width="128" height="80"> | <img src="Screenshots/RedCircles.gif" width="128" height="80" style="object-fit: cover;"> | <img src="Screenshots/ChromeDeepDarkPurple.gif" width="128" height="80"> | <img src="Screenshots/WinterIsLeaving.gif" width="128" height="80"> |
+| <img src="screenshots/MoonFarView.gif" width="128" height="80"> | <img src="screenshots/RedCircles.gif" width="128" height="80" style="object-fit: cover;"> | <img src="screenshots/ChromeDeepDarkPurple.gif" width="128" height="80"> | <img src="screenshots/WinterIsLeaving.gif" width="128" height="80"> |
 
 ### Apple Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Desert Valley             													        | Desert Tree     															     | Desert Peak										      				      		     | Dome		     											 		         |
-| <img src="Screenshots/DesertValley.gif" width="128" height="80"> | <img src="Screenshots/DesertTree.gif" width="128" height="80"> |  <img src="Screenshots/DesertPeak.gif" width="128" height="80">  | <img src="Screenshots/Dome.gif" width="128" height="80">  |
+| <img src="screenshots/DesertValley.gif" width="128" height="80"> | <img src="screenshots/DesertTree.gif" width="128" height="80"> |  <img src="screenshots/DesertPeak.gif" width="128" height="80">  | <img src="screenshots/Dome.gif" width="128" height="80">  |
 | The Lake    	              										        			| The Desert						     										     | Lake the Cliff							    				           			      | The Beach										   			          |
-| <img src="Screenshots/TheLake.gif" width="128" height="80">  	| <img src="Screenshots/TheDesert.gif" width="128" height="80">  | <img src="Screenshots/LakeTheCliff.gif" width="128" height="80">  | <img src="Screenshots/TheBeach.gif" width="128" height="80"> |
+| <img src="screenshots/TheLake.gif" width="128" height="80">  	| <img src="screenshots/TheDesert.gif" width="128" height="80">  | <img src="screenshots/LakeTheCliff.gif" width="128" height="80">  | <img src="screenshots/TheBeach.gif" width="128" height="80"> |
 | Big Sur 2			   	              											        | Monterey    											         			    | Mojave															        		| Mojave V2													     |
-| <img src="Screenshots/BigSurV2.gif" width="128" height="80"> 	| <img src="Screenshots/Monterey.gif" width="128" height="80"> | <img src="Screenshots/Mojave.gif" width="128" height="80"> | <img src="Screenshots/MojaveV2.gif" width="128" height="80"> |
+| <img src="screenshots/BigSurV2.gif" width="128" height="80"> 	| <img src="screenshots/Monterey.gif" width="128" height="80"> | <img src="screenshots/Mojave.gif" width="128" height="80"> | <img src="screenshots/MojaveV2.gif" width="128" height="80"> |
 | Minimal Mojave 															| Big Sur	 															        | Catalina													   			     |Iphone 13 Red																		|
-| <img src="Screenshots/Minimal-Mojave.gif" width="128" height="80"> | <img src="Screenshots/BigSur.gif" width="128" height="80">	        | <img src="Screenshots/Catalina.gif" width="128" height="80">     | <img src="Screenshots/Iphone13Red.gif" width="128" height="80"> 			  		     												     |
+| <img src="screenshots/Minimal-Mojave.gif" width="128" height="80"> | <img src="screenshots/BigSur.gif" width="128" height="80">	        | <img src="screenshots/Catalina.gif" width="128" height="80">     | <img src="screenshots/Iphone13Red.gif" width="128" height="80"> 			  		     												     |
 | Sonoma 															| Ventura	 															        | Rancho Cucamonga													   			     |																	|
-| <img src="Screenshots/Sonoma.gif" width="128" height="80"> | <img src="Screenshots/Ventura.gif" width="128" height="80">	        |  <img src="Screenshots/RanchoCucamonga.gif" width="128" height="80">   | 		  		     												     |
+| <img src="screenshots/Sonoma.gif" width="128" height="80"> | <img src="screenshots/Ventura.gif" width="128" height="80">	        |  <img src="screenshots/RanchoCucamonga.gif" width="128" height="80">   | 		  		     												     |
 
 ### Lofi Dynamic Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Lofi Dino	   	              													        | Lofi Girl		     														     | Lofi Alex 																     | LofiAlexandra													 		 |
-| <img src="Screenshots/LofiDino.gif" width="128" height="80"> 		| <img src="Screenshots/LofiGirl.gif" width="128" height="80">				     | <img src="Screenshots/LofiAlex.gif" width="128" height="80">	     | <img src="Screenshots/LofiAlexandra.gif" width="128" height="80"> |
+| <img src="screenshots/LofiDino.gif" width="128" height="80"> 		| <img src="screenshots/LofiGirl.gif" width="128" height="80">				     | <img src="screenshots/LofiAlex.gif" width="128" height="80">	     | <img src="screenshots/LofiAlexandra.gif" width="128" height="80"> |
 
 ### Digital art
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Dynamic Fry	   	              													        | Anime Room With Board		     														     | Himitsu House  																     | Catherine Room  													 		 |
-| <img src="Screenshots/DynamicFry.gif" width="128" height="80"> | <img src="Screenshots/AnimeRoomBoard.gif" width="128" height="80">				     | <img src="Screenshots/HimitsuHouse.gif" width="128" height="80">  | <img src="Screenshots/CatherineRoom.gif" width="128" height="80"> |
+| <img src="screenshots/DynamicFry.gif" width="128" height="80"> | <img src="screenshots/AnimeRoomBoard.gif" width="128" height="80">				     | <img src="screenshots/HimitsuHouse.gif" width="128" height="80">  | <img src="screenshots/CatherineRoom.gif" width="128" height="80"> |
 | Kagome Room	   	              											 |Corporation Hall 	 | Tokyo Street  										 					     	             |Corporation Street															     			 |
-| <img src="Screenshots/KagomeRoom.gif" width="128" height="80">	 | <img src="Screenshots/CorporationHall.gif" width="128" height="80"> 		     					 | <img src="Screenshots/TokyoStreet.gif" width="128" height="80">        | <img src="Screenshots/CorporationStreet.gif" width="128" height="80"> 															     			 |
+| <img src="screenshots/KagomeRoom.gif" width="128" height="80">	 | <img src="screenshots/CorporationHall.gif" width="128" height="80"> 		     					 | <img src="screenshots/TokyoStreet.gif" width="128" height="80">        | <img src="screenshots/CorporationStreet.gif" width="128" height="80"> 															     			 |
 | Riverside 	   	              											| External Himitsu House 		     																     | Plastic Beach  												 					     	             | Steven Universe 															     			 |
-| <img src="Screenshots/Riverside.gif" width="128" height="80"> 	   	              															        | <img src="Screenshots/ExternalHimitsuHouse.gif" width="128" height="80"> 		     																     | <img src="Screenshots/PlasticBeach.gif" width="128" height="80">												 					     	             | <img src="Screenshots/StevenUniverse.gif" width="128" height="80"> 															     			 |
+| <img src="screenshots/Riverside.gif" width="128" height="80"> 	   	              															        | <img src="screenshots/ExternalHimitsuHouse.gif" width="128" height="80"> 		     																     | <img src="screenshots/PlasticBeach.gif" width="128" height="80">												 					     	             | <img src="screenshots/StevenUniverse.gif" width="128" height="80"> 															     			 |
 | Firewatch       															        | Firewatch 2		     																     | Lakeside Deer												 					     	             | Lakeside															     			 |
-| <img src="Screenshots/Firewatch.gif" width="128" height="80">   | <img src="Screenshots/Firewatch2.gif" width="128" height="80"> 		     																     | <img src="Screenshots/LakesideDeer.gif" width="128" height="80">												 					     	             | <img src="Screenshots/Lakeside.gif" width="128" height="80">															     			 |
+| <img src="screenshots/Firewatch.gif" width="128" height="80">   | <img src="screenshots/Firewatch2.gif" width="128" height="80"> 		     																     | <img src="screenshots/LakesideDeer.gif" width="128" height="80">												 					     	             | <img src="screenshots/Lakeside.gif" width="128" height="80">															     			 |
 | Fuji 	   	              															        | Carvan		     																     | Painting Studio												 					     	             | Step By Step  															     			 |
-| <img src="Screenshots/Fuji.gif" width="128" height="80">         															        | <img src="Screenshots/Carvan.gif" width="128" height="80">		     																     | <img src="Screenshots/PaintingStudio.gif" width="128" height="80">												 					     	             | <img src="Screenshots/StepbyStep.gif" width="128" height="80">
+| <img src="screenshots/Fuji.gif" width="128" height="80">         															        | <img src="screenshots/Carvan.gif" width="128" height="80">		     																     | <img src="screenshots/PaintingStudio.gif" width="128" height="80">												 					     	             | <img src="screenshots/StepbyStep.gif" width="128" height="80">
 | Plants 	   	              															        | Walrus		     																     | 											 					     	             | 															     			 |
-| <img src="Screenshots/Plants.gif" width="128" height="80">         															        | <img src="Screenshots/Walrus.gif" width="128" height="80">		     																     | 										 					     	             | 
+| <img src="screenshots/Plants.gif" width="128" height="80">         															        | <img src="screenshots/Walrus.gif" width="128" height="80">		     																     | 										 					     	             | 
 
 ### Lake & Sea & River
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Windows 11 Lake 														        | Coast	     																     | Sunset										 					     	             | Magic Lake												     			 |
-| <img src="Screenshots/Win11Lake.gif" width="128" height="80">      | <img src="Screenshots/Coast.gif" width="128" height="80">	     | <img src="Screenshots/EOS-Sunset.gif" width="128" height="80">    | <img src="Screenshots/MagicLake.gif" width="128" height="80"> 		 |
+| <img src="screenshots/Win11Lake.gif" width="128" height="80">      | <img src="screenshots/Coast.gif" width="128" height="80">	     | <img src="screenshots/EOS-Sunset.gif" width="128" height="80">    | <img src="screenshots/MagicLake.gif" width="128" height="80"> 		 |
 | White Lighthouse 	              													| Elementary OS Odin		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/WhiteLighthouse.gif" width="128" height="80">	   	        | <img src="Screenshots/Elementary-OS-Odin.gif" width="128" height="80">		     																     | 												 					     	             | 															     			 |
+| <img src="screenshots/WhiteLighthouse.gif" width="128" height="80">	   	        | <img src="screenshots/Elementary-OS-Odin.gif" width="128" height="80">		     																     | 												 					     	             | 															     			 |
 
 
 ### Desert
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Desert	   	              														        | Surface		     														     | Surface Breeze												 		             | Desert 													     			 |
-| <img src="Screenshots/Desert.gif" width="128" height="80"> 		| <img src="Screenshots/Surface.gif" width="128" height="80">	     | <img src="Screenshots/SurfaceBreeze.gif" width="128" height="80">			     | <img src="Screenshots/DesertSands.gif" width="128" height="80"> 		|
+| <img src="screenshots/Desert.gif" width="128" height="80"> 		| <img src="screenshots/Surface.gif" width="128" height="80">	     | <img src="screenshots/SurfaceBreeze.gif" width="128" height="80">			     | <img src="screenshots/DesertSands.gif" width="128" height="80"> 		|
 
 ### Cities
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Cyberpunk        															        | Viktor Forgacs			     												     | 												 					     	             | 															     			 |
-| <img src="Screenshots/cyberpunk-01.gif" width="128" height="80"> | <img src="Screenshots/EOS-ViktorForgacs.gif" width="128" height="80"> 	     | 												 					     	             | 															     			 |
+| <img src="screenshots/cyberpunk-01.gif" width="128" height="80"> | <img src="screenshots/EOS-ViktorForgacs.gif" width="128" height="80"> 	     | 												 					     	             | 															     			 |
 
 ### Mountains
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Snow Capped Mountain													        | We Yamle		     														     | Fede Marin Mountain 											     	             | Padar Island															 |
-| <img src="Screenshots/EOS-SnowCappedMountain.gif" width="128" height="80"> | <img src="Screenshots/EOS-WeYamle.gif" width="128" height="80">| <img src="Screenshots/FedeMarinMountain.gif" width="128" height="80"> 	     | <img src="Screenshots/PadarIsland.gif" width="128" height="80">   		 |
+| <img src="screenshots/EOS-SnowCappedMountain.gif" width="128" height="80"> | <img src="screenshots/EOS-WeYamle.gif" width="128" height="80">| <img src="screenshots/FedeMarinMountain.gif" width="128" height="80"> 	     | <img src="screenshots/PadarIsland.gif" width="128" height="80">   		 |
 | Rocky Mountain  														        | Zorin Mountain 		     												     | Zorin Mountain fog 												 	             | Material Mountains															     			 |
-| <img src="Screenshots/RockyMountain.gif" width="128" height="80">  	   	        | <img src="Screenshots/ZorinMountain.gif" width="128" height="80"> 		     | <img src="Screenshots/ZorinMountainFog.gif" width="128" height="80"> 		     |<img src="Screenshots/MaterialMountains.gif" width="128" height="80"> |
+| <img src="screenshots/RockyMountain.gif" width="128" height="80">  	   	        | <img src="screenshots/ZorinMountain.gif" width="128" height="80"> 		     | <img src="screenshots/ZorinMountainFog.gif" width="128" height="80"> 		     |<img src="screenshots/MaterialMountains.gif" width="128" height="80"> |
 | Zorin Mountain 2  														        |
-| <img src="Screenshots/ZorinMountain2.gif" width="128" height="80">  	   	        |
+| <img src="screenshots/ZorinMountain2.gif" width="128" height="80">  	   	        |
 
 ### Ubuntu Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Ubuntu Minimal	   	              													        | Groovy Gorilla		     														     | Hirsuit Hippo												 		             | Focal Fossa															     			 |
-| <img src="Screenshots/UbuntuMinimal.gif" width="128" height="80">               		        | <img src="Screenshots/GroovyGorilla.gif" width="128" height="80">		     	     | <img src="Screenshots/HirsuitHippo.gif" width="128" height="80">                                 		     | <img src="Screenshots/FocalFossa.gif" width="128" height="80">			 |
+| <img src="screenshots/UbuntuMinimal.gif" width="128" height="80">               		        | <img src="screenshots/GroovyGorilla.gif" width="128" height="80">		     	     | <img src="screenshots/HirsuitHippo.gif" width="128" height="80">                                 		     | <img src="screenshots/FocalFossa.gif" width="128" height="80">			 |
 | Hiresute Hippo Blue        			     | Adwaita		     																     | Fluent												 					     	             | 															     			 |
-| <img src="Screenshots/HirsuteHippoBlue.gif" width="128" height="80"> 	   	              															        | <img src="Screenshots/Adwaita.gif" width="128" height="80">		     																     | <img src="Screenshots/Fluent.gif" width="128" height="80">												 					     	             | 															     			 |
+| <img src="screenshots/HirsuteHippoBlue.gif" width="128" height="80"> 	   	              															        | <img src="screenshots/Adwaita.gif" width="128" height="80">		     																     | <img src="screenshots/Fluent.gif" width="128" height="80">												 					     	             | 															     			 |
 
 ### Windows Wallpapers
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Windows 11 01	   	              													        | Windows 11 02		     														     | Windows 11 03												 		             | Windows 11 04															     			 |
-| <img src="Screenshots/Windows-11.gif" width="128" height="80">               		        | <img src="Screenshots/Windows-11-2.gif" width="128" height="80">		     	     | <img src="Screenshots/Windows-11-3.gif" width="128" height="80">                                 		     | <img src="Screenshots/Windows-11-4.gif" width="128" height="80">			 |
+| <img src="screenshots/Windows-11.gif" width="128" height="80">               		        | <img src="screenshots/Windows-11-2.gif" width="128" height="80">		     	     | <img src="screenshots/Windows-11-3.gif" width="128" height="80">                                 		     | <img src="screenshots/Windows-11-4.gif" width="128" height="80">			 |
 | Windows 11 05	   	              													        | Insider Program		     														     | Windows 12 01												 		             | Windows 12 02															     			 |
-| <img src="Screenshots/Windows-11-5.gif" width="128" height="80">               		        | <img src="Screenshots/Windows-Insider-Program.gif" width="128" height="80"> 		     	     | <img src="Screenshots/Windows-12.gif" width="128" height="80">                                		     | <img src="Screenshots/Windows-12-2.gif" width="128" height="80">		 |
+| <img src="screenshots/Windows-11-5.gif" width="128" height="80">               		        | <img src="screenshots/Windows-Insider-Program.gif" width="128" height="80"> 		     	     | <img src="screenshots/Windows-12.gif" width="128" height="80">                                		     | <img src="screenshots/Windows-12-2.gif" width="128" height="80">		 |
 | Bloom Ventura	   	              													        |Bloom Snow		     														     | Bloom Alternative													 		             | Bloom Rainbow															     			 |
-| <img src="Screenshots/Windows-11-Bloom-Ventura.gif" width="128" height="80">               		        | <img src="Screenshots/Windows-11-Bloom-Snow.gif" width="128" height="80">		     	     | <img src="Screenshots/Windows-11-Bloom-Alternative.gif" width="128" height="80">           		     | <img src="Screenshots/Windows-11-Bloom-Rainbow.gif" width="128" height="80">			 |
+| <img src="screenshots/Windows-11-Bloom-Ventura.gif" width="128" height="80">               		        | <img src="screenshots/Windows-11-Bloom-Snow.gif" width="128" height="80">		     	     | <img src="screenshots/Windows-11-Bloom-Alternative.gif" width="128" height="80">           		     | <img src="screenshots/Windows-11-Bloom-Rainbow.gif" width="128" height="80">			 |
 | MS Build 2019	   	              													        |MS Build 2020 1		     														     | MS Build 2020 2													 		             | Pixel Blocks															     			 |
-| <img src="Screenshots/Microsoft-Build-2019.gif" width="128" height="80">               		        | <img src="Screenshots/Microsoft-Build-2020.gif" width="128" height="80">		     	     | <img src="Screenshots/Microsoft-Build-2020-2.gif" width="128" height="80">           		     | <img src="Screenshots/Windows-Pixel-Blocks.gif" width="128" height="80">			 |
+| <img src="screenshots/Microsoft-Build-2019.gif" width="128" height="80">               		        | <img src="screenshots/Microsoft-Build-2020.gif" width="128" height="80">		     	     | <img src="screenshots/Microsoft-Build-2020-2.gif" width="128" height="80">           		     | <img src="screenshots/Windows-Pixel-Blocks.gif" width="128" height="80">			 |
 | MS Build 2023	   	              													        |MS Build 2023 2		     														     | MS Build 2023 3													 		             | MS Build 2023 4															     			 |
-| <img src="Screenshots/Microsoft-Build-2023-Wave.gif" width="128" height="80">               		        | <img src="Screenshots/Microsoft-Build-2023-Wave-2.gif" width="128" height="80">		     	     | <img src="Screenshots/Microsoft-Build-2023-DevHome.gif" width="128" height="80">           		     | <img src="Screenshots/Microsoft-Build-2023-Layers.gif" width="128" height="80">			 |
+| <img src="screenshots/Microsoft-Build-2023-Wave.gif" width="128" height="80">               		        | <img src="screenshots/Microsoft-Build-2023-Wave-2.gif" width="128" height="80">		     	     | <img src="screenshots/Microsoft-Build-2023-DevHome.gif" width="128" height="80">           		     | <img src="screenshots/Microsoft-Build-2023-Layers.gif" width="128" height="80">			 |
 | MS Build 2023	5   	              													        | MS Build 2023 6		     														     | MS Build 2023 7													 		             | MS Build 2023 8															     			 |
-| <img src="Screenshots/Microsoft-Build-2023-Wave-Blue-Green.gif" width="128" height="80">               		        | <img src="Screenshots/Microsoft-Build-2023-Wave-Blue-Purple.gif" width="128" height="80">		     	     | <img src="Screenshots/Microsoft-Build-2023-Wave-2-Blue-Green.gif" width="128" height="80">           		     | <img src="Screenshots/Microsoft-Build-2023-Wave-3-Blue-Green.gif" width="128" height="80">			 |
+| <img src="screenshots/Microsoft-Build-2023-Wave-Blue-Green.gif" width="128" height="80">               		        | <img src="screenshots/Microsoft-Build-2023-Wave-Blue-Purple.gif" width="128" height="80">		     	     | <img src="screenshots/Microsoft-Build-2023-Wave-2-Blue-Green.gif" width="128" height="80">           		     | <img src="screenshots/Microsoft-Build-2023-Wave-3-Blue-Green.gif" width="128" height="80">			 |
 | Wave Purple   	              													        | Wave Green Blue  		     														     | Wave Blue Purple													 		             | Wave Pink Orange															     			 |
-| <img src="Screenshots/Color-Wave-Purple.gif" width="128" height="80">               		        | <img src="Screenshots/Color-Wave-Green-Blue.gif" width="128" height="80">		     	     | <img src="Screenshots/Color-Wave-Blue-Purple.gif" width="128" height="80">           		     | <img src="Screenshots/Color-Wave-Pink-Orange.gif" width="128" height="80">			 |
+| <img src="screenshots/Color-Wave-Purple.gif" width="128" height="80">               		        | <img src="screenshots/Color-Wave-Green-Blue.gif" width="128" height="80">		     	     | <img src="screenshots/Color-Wave-Blue-Purple.gif" width="128" height="80">           		     | <img src="screenshots/Color-Wave-Pink-Orange.gif" width="128" height="80">			 |
 | Wave Oraange  	              													        | Wave Yellow	     														     | 												 		             | 															     			 |
-| <img src="Screenshots/Color-Wave-Orange.gif" width="128" height="80">               		        | <img src="Screenshots/Color-Wave-Yellow.gif" width="128" height="80">		     	     |       		     | 			 |
+| <img src="screenshots/Color-Wave-Orange.gif" width="128" height="80">               		        | <img src="screenshots/Color-Wave-Yellow.gif" width="128" height="80">		     	     |       		     | 			 |
 
 
 ### Gnome 42
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Drool	   	              															        | Disco 		     																     | Symbolics												 					     	             | Blobs															     			 |
-| <img src="Screenshots/Drool.gif" width="128" height="80">	   	              															        | <img src="Screenshots/Disco.gif" width="128" height="80"> 		     																     | <img src="Screenshots/Symbolics.gif" width="128" height="80"> 												 					     	             | <img src="Screenshots/Blobs.gif" width="128" height="80"> 															     			 |
+| <img src="screenshots/Drool.gif" width="128" height="80">	   	              															        | <img src="screenshots/Disco.gif" width="128" height="80"> 		     																     | <img src="screenshots/Symbolics.gif" width="128" height="80"> 												 					     	             | <img src="screenshots/Blobs.gif" width="128" height="80"> 															     			 |
 | Truchet	   	              															        | Libadwaita		     																     | 												 					     	             | 															     			 |
-| <img src="Screenshots/Truchet.gif" width="128" height="80">	   	              															        | <img src="Screenshots/Libadwaita.gif" width="128" height="80">		     																     | 												 					     	             | 															     			 |
+| <img src="screenshots/Truchet.gif" width="128" height="80">	   	              															        | <img src="screenshots/Libadwaita.gif" width="128" height="80">		     																     | 												 					     	             | 															     			 |
 
 <!--
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
@@ -155,7 +155,7 @@
 1. Open Terminal
 2. Run the following command:
 	```
-	curl -s "https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Easy_Install.sh" | sudo bash
+	curl -s "https://raw.githubusercontent.com/Chillsmeit/Linux_Dynamic_Wallpapers/main/easy-install.sh" | sudo bash
 	```
 4. Change your wallpaper from: Settings > Backgrounds
 5. That's it. Enjoy! :tada:
@@ -175,7 +175,7 @@
 
       ```
       cd ~
-      git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git
+      git clone https://github.com/Chillsmeit/Linux_Dynamic_Wallpapers.git
       cd Linux_Dynamic_Wallpapers
       ```
 
@@ -185,69 +185,3 @@
 
 3. Change your wallpaper from: Settings > Backgrounds
 
-4. That's it. Enjoy! :tada:
-
-## :paintbrush: Wallpapers Authors:
-- Apple Inc.
-- Elementary Os
-- Ubuntu
-- Gnome
-- Zorin Os
-- lofigirl.com
-- Arseniy Chebynkin
-- Evgeniy Slushev
-- Louis Coyle
-- Microsoft
-- Updating...
-
-## :octocat: I want to contribute!
-
-That's great!
-Here are some basic rules to get you started:
-Commits should start with a Capital letter and should be written in present tense (e.g. __:tada: Add cool new feature__ instead of __:tada: Added cool new feature__).
-You should also start your commit message with **one** applicable emoji.
-This does not only look great but also makes you rethink what to add to a commit. Make many but small commits!
-
-Emoji | Description
-------|------------
-:tada: `:tada:` | When you added a cool new feature.
-:wrench: `:wrench:` | When you added a piece of code.
-:recycle: `:recycle:` | When you refactored a part of the code.
-:sparkles: `:sparkles:` | When you applied clang-format.
-:globe_with_meridians: `:globe_with_meridians:` | When you worked on translations.
-:art: `:art:` | When you improved / added assets like themes.
-:lipstick: `:lipstick:` | When you worked on the UI of the preferences dialog.
-:rocket: `:rocket:` | When you improved performance.
-:memo: `:memo:` | When you wrote documentation.
-:beetle: `:beetle:` | When you fixed a bug.
-:revolving_hearts: `:revolving_hearts:` | When a new sponsor is added or credits are updated.
-:heavy_check_mark: `:heavy_check_mark:` | When you worked on checks or adjusted the code to be compliant with them.
-:twisted_rightwards_arrows: `:twisted_rightwards_arrows:` | When you merged a branch.
-:fire: `:fire:` | When you removed something.
-:truck: `:truck:` | When you moved / renamed something.
-
-## :memo: To do list
-- [x] Add contributor list
-- [x] Add wallpapers authors list
-- [ ] Add more detailed instructions about how to contribute
-- [x] Make a script for creating a dynamic wallpaper given just two wallpapers and a name for it
-
-
-## :revolving_hearts: Contributors
-Thanks goes to these wonderful people:
-- [saint-13](https://github.com/saint-13)
-- [amro_solaiman](https://github.com/amrosolaiman)
-- [Alexandru Balan](https://github.com/BalanAlexandru)
-- [ComradeCat24](https://github.com/ComradeCat24)
-- [Mohammedziad599](https://github.com/Mohammedziad599)
-- [bodyash](https://github.com/Bodyash)
-- [SoftwareRat](https://github.com/SoftwareRat)
-- [Gina Stoffel](https://github.com/gina-stoffel)
-
-
-## :radioactive: Notice:
-- If you don't want your device to be the source of humanity extinction, please do not use the 2static1dynamic.sh script without reading what does it contain. Please.
-
-## 🔗 External links:
-- <a href="https://www.gnome-look.org/p/1499429/">
-	Linux Dynamic Wallpapers on Gnome-look.org</a>

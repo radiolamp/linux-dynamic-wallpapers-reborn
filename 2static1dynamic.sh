@@ -1,6 +1,6 @@
 #!/bin/bash
 #this script generates a dynamic wallpaper given two static wallpapers.
-#it works according to the directories of Linux_Dynamic_Wallpapers project.
+#it works according to the directories of Linux_dynamic_wallpapers project.
 #it generates a compressed gif and the xml files for Gnome.
 #it commits the changes to the local git.
 #websites used for preparing the photos:
@@ -31,12 +31,12 @@ nightwallpapername=$(basename -- "$nightwallpaper")
 nightwallpaperextension="${nightwallpapername##*.}"
 mv -- "$daywallpaper" "${dwallpapername}-1.${daywallpaperextension}"
 mv -- "$nightwallpaper" "${dwallpapername}-2.${nightwallpaperextension}"
-mkdir Dynamic_Wallpapers/$dwallpapername
+mkdir dynamic-wallpapers/$dwallpapername
 echo "Created $dwallpapername folder"
-#chmod u+rwx Dynamic_Wallpapers/$dwallpapername
-mv -t Dynamic_Wallpapers/$dwallpapername "${dwallpapername}-1.${daywallpaperextension}" "${dwallpapername}-2.${nightwallpaperextension}"
+#chmod u+rwx dynamic_wallpapers/$dwallpapername
+mv -t dynamic-wallpapers/$dwallpapername "${dwallpapername}-1.${daywallpaperextension}" "${dwallpapername}-2.${nightwallpaperextension}"
 echo "Moved wallpapers in $dwallpapername folder"
-cd Dynamic_Wallpapers
+cd dynamic-wallpapers
 echo "<background>
 	<starttime>
 		<year>2018</year>
@@ -48,25 +48,25 @@ echo "<background>
 	</starttime>
 
 	<static>
-		<file>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-1.${daywallpaperextension}"</file>
+		<file>/usr/share/backgrounds/dynamic_wallpapers/$dwallpapername/"${dwallpapername}-1.${daywallpaperextension}"</file>
 		<duration>42300.0</duration>
 	</static>
 
 	<transition type=\"overlay\">
 		<duration>900.0</duration>
-		<from>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-1.${daywallpaperextension}"</from>
-		<to>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-2.${nightwallpaperextension}"</to>
+		<from>/usr/share/backgrounds/dynamic_wallpapers/$dwallpapername/"${dwallpapername}-1.${daywallpaperextension}"</from>
+		<to>/usr/share/backgrounds/dynamic_wallpapers/$dwallpapername/"${dwallpapername}-2.${nightwallpaperextension}"</to>
 	</transition>
 
 	<static>
-		<file>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-2.${nightwallpaperextension}"</file>
+		<file>/usr/share/backgrounds/dynamic_wallpapers/$dwallpapername/"${dwallpapername}-2.${nightwallpaperextension}"</file>
 		<duration>42300.0</duration>
 	</static>
 
 	<transition type=\"overlay\">
 		<duration>900.0</duration>
-    <from>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-2.${nightwallpaperextension}"</from>
-		<to>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername/"${dwallpapername}-1.${daywallpaperextension}"</to>
+    <from>/usr/share/backgrounds/dynamic_wallpapers/$dwallpapername/"${dwallpapername}-2.${nightwallpaperextension}"</from>
+		<to>/usr/share/backgrounds/dynamic_wallpapers/$dwallpapername/"${dwallpapername}-1.${daywallpaperextension}"</to>
 	</transition>
     </background>" > $dwallpapername.xml
 #chmod	u+rwx $dwallpapername.xml
@@ -77,7 +77,7 @@ echo "<?xml version=\"1.0\"?>
 <wallpapers>
   <wallpaper deleted=\"false\">
     <name>$dwallpapername</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/$dwallpapername.xml</filename>
+    <filename>/usr/share/backgrounds/dynamic_wallpapers/$dwallpapername.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
@@ -87,6 +87,6 @@ echo "<?xml version=\"1.0\"?>
 #chmod	u+rwx $dwallpapername.xml
 echo "Created xml files"
 cd ..
-git add xml/$dwallpapername.xml Screenshots/$dwallpapername.gif Dynamic_Wallpapers/$dwallpapername.xml Dynamic_Wallpapers/$dwallpapername/*
+git add xml/$dwallpapername.xml Screenshots/$dwallpapername.gif dynamic_wallpapers/$dwallpapername.xml dynamic_wallpapers/$dwallpapername/*
 git commit -m ":art: Add $dwallpapername dynamic wallpaper"
 echo "Done!"
