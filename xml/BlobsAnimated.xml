@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>BlobsAnimated</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated.xml</filename>
+    <filename>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#071b29</pcolor>

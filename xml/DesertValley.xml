@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Desert Valley</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/DesertValley.xml</filename>
+    <filename>/usr/share/backgrounds/dynamic-wallpapers/DesertValley.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>

@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>MrSillywalker</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/MrSillywalker.xml</filename>
+    <filename>/usr/share/backgrounds/dynamic-wallpapers/MrSillywalker.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>

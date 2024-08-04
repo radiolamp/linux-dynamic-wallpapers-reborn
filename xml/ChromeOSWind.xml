@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>ChromeOSWind</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/ChromeOSWind.xml</filename>
+    <filename>/usr/share/backgrounds/dynamic-wallpapers/ChromeOSWind.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>

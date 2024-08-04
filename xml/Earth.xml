@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Earth</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/Earth.xml</filename>
+    <filename>/usr/share/backgrounds/dynamic-wallpapers/Earth.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>

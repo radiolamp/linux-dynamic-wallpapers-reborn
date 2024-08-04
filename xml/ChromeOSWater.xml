@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>ChromeOSWater</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/ChromeOSWater.xml</filename>
+    <filename>/usr/share/backgrounds/dynamic-wallpapers/ChromeOSWater.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>

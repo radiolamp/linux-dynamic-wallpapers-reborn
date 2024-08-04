@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Drool</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/Drool.xml</filename>
+    <filename>/usr/share/backgrounds/dynamic-wallpapers/Drool.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
