@@ -160,7 +160,7 @@
 4. Change your wallpaper from: Settings > Backgrounds
 5. That's it. Enjoy! :tada:
 
-#### Method 3: for *experts* but saves time and data :nerd_face:
+#### Method 3: Full Install
 
 1. Download package:
 
