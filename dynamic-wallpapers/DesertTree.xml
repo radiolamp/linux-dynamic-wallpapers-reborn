@@ -11,24 +11,24 @@
 	</starttime>
 
 	<static>
-		<file>/usr/share/backgrounds/Dynamic_Wallpapers/DesertTree/DesertTree-0.jpg</file>
+		<file>/usr/share/backgrounds/dynamic-wallpapers/DesertTree/DesertTree-0.jpg</file>
 		<duration>42300.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>900.0</duration>
-		<from>/usr/share/backgrounds/Dynamic_Wallpapers/DesertTree/DesertTree-0.jpg</from>
-		<to>/usr/share/backgrounds/Dynamic_Wallpapers/DesertTree/DesertTree-1.jpg</to>
+		<from>/usr/share/backgrounds/dynamic-wallpapers/DesertTree/DesertTree-0.jpg</from>
+		<to>/usr/share/backgrounds/dynamic-wallpapers/DesertTree/DesertTree-1.jpg</to>
 	</transition>
 
 	<static>
-		<file>/usr/share/backgrounds/Dynamic_Wallpapers/DesertTree/DesertTree-1.jpg</file>
+		<file>/usr/share/backgrounds/dynamic-wallpapers/DesertTree/DesertTree-1.jpg</file>
 		<duration>42300.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>900.0</duration>
-		<from>/usr/share/backgrounds/Dynamic_Wallpapers/DesertTree/DesertTree-1.jpg</from>
-		<to>/usr/share/backgrounds/Dynamic_Wallpapers/DesertTree/DesertTree-0.jpg</to>
+		<from>/usr/share/backgrounds/dynamic-wallpapers/DesertTree/DesertTree-1.jpg</from>
+		<to>/usr/share/backgrounds/dynamic-wallpapers/DesertTree/DesertTree-0.jpg</to>
 	</transition>
 </background>

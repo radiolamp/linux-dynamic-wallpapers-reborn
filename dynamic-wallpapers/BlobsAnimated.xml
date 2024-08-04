@@ -9,442 +9,442 @@
     </starttime>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-00.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-00.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-00.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-01.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-00.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-01.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-01.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-01.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-01.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-02.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-01.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-02.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-02.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-02.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-02.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-03.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-02.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-03.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-03.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-03.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-03.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-04.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-03.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-04.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-04.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-04.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-04.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-05.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-04.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-05.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-05.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-05.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-05.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-06.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-05.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-06.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-06.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-06.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-06.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-07.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-06.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-07.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-07.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-07.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-07.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-08.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-07.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-08.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-08.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-08.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-08.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-09.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-08.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-09.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-09.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-09.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-09.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-10.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-09.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-10.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-10.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-10.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-10.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-11.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-10.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-11.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-11.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-11.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-11.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-12.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-11.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-12.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-12.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-12.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-12.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-13.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-12.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-13.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-13.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-13.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-13.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-14.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-13.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-14.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-14.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-14.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-14.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-15.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-14.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-15.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-15.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-15.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-15.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-16.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-15.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-16.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-16.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-16.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-16.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-17.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-16.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-17.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-17.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-17.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-17.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-18.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-17.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-18.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-18.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-18.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-18.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-19.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-18.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-19.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-19.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-19.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-19.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-20.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-19.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-20.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-20.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-20.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-20.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-21.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-20.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-21.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-21.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-21.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-21.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-22.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-21.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-22.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-22.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-22.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-22.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-23.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-22.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-23.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-23.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-23.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-23.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-24.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-23.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-24.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-24.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-24.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-24.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-25.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-24.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-25.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-25.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-25.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-25.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-26.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-25.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-26.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-26.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-26.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-26.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-27.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-26.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-27.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-27.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-27.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-27.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-28.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-27.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-28.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-28.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-28.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-28.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-29.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-28.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-29.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-29.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-29.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-29.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-30.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-29.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-30.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-30.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-30.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-30.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-31.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-30.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-31.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-31.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-31.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-31.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-32.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-31.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-32.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-32.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-32.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-32.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-33.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-32.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-33.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-33.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-33.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-33.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-34.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-33.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-34.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-34.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-34.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-34.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-35.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-34.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-35.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-35.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-35.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-35.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-36.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-35.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-36.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-36.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-36.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-36.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-37.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-36.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-37.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-37.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-37.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-37.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-38.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-37.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-38.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-38.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-38.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>900.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-38.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-39.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-38.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-39.svg</to>
     </transition>
 
     <static>
-        <file>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-39.svg</file>
+        <file>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-39.svg</file>
         <duration>1000.0</duration>
     </static>
 
     <transition type="overlay">
         <duration>2160.0</duration>
-        <from>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-39.svg</from>
-        <to>/usr/share/backgrounds/Dynamic_Wallpapers/BlobsAnimated/Blobs-00.svg</to>
+        <from>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-39.svg</from>
+        <to>/usr/share/backgrounds/dynamic-wallpapers/BlobsAnimated/Blobs-00.svg</to>
     </transition>
 </background>
