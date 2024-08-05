@@ -3,6 +3,36 @@
 <p align="center">
 </p>
 
+## :gear: Installation:
+#### Method 1: Interactive Install (needs Whiptail)
+1. Paste the following in terminal:
+    ```
+    curl -s https://raw.githubusercontent.com/Chillsmeit/linux-dynamic-wallpapers/main/selective-interactive-install.sh | bash
+    ```
+2. Select the walpapers you wish to install from the list
+3. Use Arrow keys to navigate and Space to Select
+4. Change your wallpaper from: Settings > Backgrounds
+
+#### Method 2: Selective Manual install
+
+1. Paste the following in terminal:
+    ```
+    curl -s "https://raw.githubusercontent.com/Chillsmeit/linux-dynamic-wallpapers/main/full-install-remote.sh" | bash
+    ```
+2. Change your wallpaper in: Settings > Appearance
+
+#### Method 3: Full Install
+
+1. Paste the following in terminal:
+    ```
+    git clone https://github.com/Chillsmeit/linux-dynamic-wallpapers
+    cd linux-dynamic-wallpapers
+    chmod +x full-install-manual.sh
+    ./full-install-manual.sh
+    ```
+
+2. Change your wallpaper in: Settings > Appearance
+
 ### Abstract
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
@@ -135,34 +165,3 @@
 | 	   	              															        | 		     																     | 												 					     	             | 															     			 |
 | 	   	              															        | 		     																     | 												 					     	             | 															     			 |
 -->
-
-## :gear: Installation:
-#### Method 1: Interactive Install (needs Whiptail)
-1. Paste the following in terminal:
-    ```
-    curl -s https://raw.githubusercontent.com/Chillsmeit/linux-dynamic-wallpapers/main/selective-interactive-install.sh | bash
-    ```
-2. Select the walpapers you wish to install from the list
-3. Use Arrow keys to navigate and Space to Select
-4. Change your wallpaper from: Settings > Backgrounds
-
-#### Method 2: Selective Manual install
-
-1. Paste the following in terminal:
-    ```
-    curl -s "https://raw.githubusercontent.com/Chillsmeit/linux-dynamic-wallpapers/main/full-install-remote.sh" | bash
-    ```
-2. Change your wallpaper in: Settings > Appearance
-
-#### Method 3: Full Install
-
-1. Paste the following in terminal:
-    ```
-    git clone https://github.com/Chillsmeit/linux-dynamic-wallpapers
-    cd linux-dynamic-wallpapers
-    chmod +x full-install-manual.sh
-    ./full-install-manual.sh
-    ```
-
-2. Change your wallpaper in: Settings > Appearance
-
