@@ -1,7 +1,7 @@
 #!/bin/bash
 wallpaper_dir="/usr/share/backgrounds/dynamic-wallpapers"
 xml_dir="/usr/share/gnome-background-properties/"
-git_url="https://github.com/Chillsmeit/Linux_Dynamic_Wallpapers.git/"
+git_url="https://github.com/Chillsmeit/linux-dynamic-wallpapers.git/"
 
 cmd_exists() {
 	command -v "$1" >/dev/null 2>&1
@@ -22,43 +22,52 @@ check_pm() {
 	pm="unknown"
 }
 
-get_install_cmd(){
-	if [ "$pm" = "yum" ] || [ "$pm" = "dnf" ] || [ "$pm" = "zypper" ]; then
-		cmd="sudo $pm install -y $pkg"
-	elif [ "$pm" = "apt-get" ]; then
-		cmd="sudo $pm install $pkg -y"
-	elif [ "$pm" = "pacman" ]; then
-		cmd="sudo $pm --noconfirm -S $pkg"
-	elif [ "$pm" = "emerge" ]; then
-		cmd="sudo $pm $pkg"
-	else
-		cmd="echo 'Package manager not found or unsupported.'"
-	fi
+get_install_cmd() {
+    case "$pm" in
+        yum|dnf|zypper)
+            cmd="sudo $pm install -y $pkg"
+            ;;
+        apt-get)
+            cmd="sudo $pm install $pkg -y"
+            ;;
+        pacman)
+            cmd="sudo $pm --noconfirm -S $pkg"
+            ;;
+        emerge)
+            cmd="sudo $pm $pkg"
+            ;;
+        *)
+            cmd="echo 'Package manager not found or unsupported.'"
+            ;;
+    esac
 }
 
 install_pkg() {
     local package="$1"
     local fallback="$2"
-    
-    if ! cmd_exists "$package"; then
-        echo "$package is not installed. Installing $package..."
-        pkg "$package"
+
+    if cmd_exists "$package"; then
+        echo "$package is already installed."
+        return
+    fi
+
+    echo "$package is not installed. Installing $package..."
+    pkg "$package"
+    check_pm
+    get_install_cmd
+    if eval $cmd; then
+        return
+    fi
+
+    echo "Failed to install $package. Trying alternative..."
+    if [ -n "$fallback" ]; then
+        echo "Attempting to install fallback package: $fallback..."
+        pkg "$fallback"
         check_pm
         get_install_cmd
-        if ! eval $cmd; then
-            echo "Failed to install $package. Trying alternative..."
-            if [ -n "$fallback" ]; then
-                echo "Attempting to install fallback package: $fallback..."
-                pkg "$fallback"
-                check_pm
-                get_install_cmd
-                eval $cmd
-            else
-                echo "No fallback package provided."
-            fi
-        fi
+        eval $cmd
     else
-        echo "$package is already installed."
+        echo "No fallback package provided."
     fi
 }
 
@@ -69,7 +78,7 @@ install_pkg whiptail newt
 git clone --filter=blob:none --no-checkout "$git_url"
 
 # List files in repo and create array of available walpapers
-walpaper_list="$(git --git-dir Linux_Dynamic_Wallpapers/.git ls-tree --full-name --name-only -r HEAD | \
+walpaper_list="$(git --git-dir linux-dynamic-wallpapers/.git ls-tree --full-name --name-only -r HEAD | \
 	grep xml/ | \
 	sed -e 's/^xml\///' | \
 	sed -e 's/.xml//' | \
@@ -114,25 +123,25 @@ while IFS= read -r to_install; do
 	echo "- Installing $name"
 
 	# List jpeg files to install
-	list_to_install=$(git --no-pager --git-dir Linux_Dynamic_Wallpapers/.git show "main:dynamic-wallpapers/$name" | \
+	list_to_install=$(git --no-pager --git-dir linux-dynamic-wallpapers/.git show "main:dynamic-wallpapers/$name" | \
 		tail -n +3)
 
 	# Install jpeg files
 	while IFS= read -r file; do
 		echo " Downloading dynamic-wallpapers/$name/$file"
 		sudo mkdir -p "$wallpaper_dir/$name"
-		git --no-pager --git-dir Linux_Dynamic_Wallpapers/.git show "main:dynamic-wallpapers/$name/$file" | \
+		git --no-pager --git-dir linux-dynamic-wallpapers/.git show "main:dynamic-wallpapers/$name/$file" | \
 			sudo tee "$wallpaper_dir/$name/$file" >/dev/null
 	done <<< "$list_to_install"
 
 	# Install xml
 	echo " Downloading dynamic-wallpapers/$name.xml"
-	git --no-pager --git-dir Linux_Dynamic_Wallpapers/.git show "main:dynamic-wallpapers/$name.xml" | \
+	git --no-pager --git-dir linux-dynamic-wallpapers/.git show "main:dynamic-wallpapers/$name.xml" | \
 		sudo tee "$wallpaper_dir/$name.xml" >/dev/null
 
 	# Install slideshow xml
 	echo " Downloading xml/$name.xml"
-	git --no-pager --git-dir Linux_Dynamic_Wallpapers/.git show "main:xml/$name.xml" | \
+	git --no-pager --git-dir linux-dynamic-wallpapers/.git show "main:xml/$name.xml" | \
 		sudo tee "$xml_dir/$name.xml" >/dev/null
 done <<< "$user_selection"
 
