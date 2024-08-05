@@ -3,80 +3,67 @@ wallpaper_dir="/usr/share/backgrounds/dynamic-wallpapers"
 xml_dir="/usr/share/gnome-background-properties/"
 git_url="https://github.com/Chillsmeit/Linux_Dynamic_Wallpapers.git/"
 
-command_exists() {
-    command -v "$1" >/dev/null 2>&1
+cmd_exists() {
+	command -v "$1" >/dev/null 2>&1
 }
 
-package() {
-    local pkg="$1"
-    package="$pkg"
+pkg() {
+	local package="$1"
+	pkg="$package"
 }
 
-check_pkg_mngr() {
-    if command_exists apt-get; then
-        pkgmngr="apt-get"
-        flag="-y"
-        install="sudo $pkgmngr install"
-        command="$install $flag $package"
-    elif command_exists yum; then
-        pkgmngr="yum"
-        flag="-y"
-        install="sudo $pkgmngr install"
-        command="$install $flag $package"
-    elif command_exists dnf; then
-        pkgmngr="dnf"
-        flag="-y"
-        install="sudo $pkgmngr install"
-        command="$install $flag $package"
-    elif command_exists zypper; then
-        pkgmngr="zypper"
-        flag="-y"
-        install="sudo $pkgmngr install"
-        command="$install $flag $package"
-    elif command_exists pacman; then
-        pkgmngr="pacman"
-        flag="--noconfirm"
-        install="sudo $pkgmngr -S"
-        command="$install $flag $package"
-    elif command_exists emerge; then
-        pkgmngr="emerge"
-        install="sudo $pkgmngr"
-        command="$install $package"
+check_pm() {
+	for pkgmngr in apt-get zypper pacman yum dnf emerge; do
+		if cmd_exists $pkgmngr; then
+			pm=$pkgmngr
+			return
+		fi
+	done
+	pm="unknown"
+}
+
+get_install_cmd(){
+	if [ "$pm" = "yum" ] || [ "$pm" = "dnf" ] || [ "$pm" = "zypper" ]; then
+		cmd="sudo $pm install -y $pkg"
+	elif [ "$pm" = "apt-get" ]; then
+		cmd="sudo $pm install $pkg -y"
+	elif [ "$pm" = "pacman" ]; then
+		cmd="sudo $pm --noconfirm -S $pkg"
+	elif [ "$pm" = "emerge" ]; then
+		cmd="sudo $pm $pkg"
+	else
+		cmd="echo 'Package manager not found or unsupported.'"
+	fi
+}
+
+install_pkg() {
+    local package="$1"
+    local fallback="$2"
+    
+    if ! cmd_exists "$package"; then
+        echo "$package is not installed. Installing $package..."
+        pkg "$package"
+        check_pm
+        get_install_cmd
+        if ! eval $cmd; then
+            echo "Failed to install $package. Trying alternative..."
+            if [ -n "$fallback" ]; then
+                echo "Attempting to install fallback package: $fallback..."
+                pkg "$fallback"
+                check_pm
+                get_install_cmd
+                eval $cmd
+            else
+                echo "No fallback package provided."
+            fi
+        fi
     else
-        pkgmngr="unknown"
-        flag=""
-        install=""
-        command=""
+        echo "$package is already installed."
     fi
 }
 
-install_package(){
-    if [ -n "$command" ]; then
-        echo "Running: $command"
-        eval "$command"
-    else
-        echo "No valid package manager found."
-    fi
-}
-
-# Check if both git and whiptail exist
-if ! command_exists git; then
-    echo "Error: git is not installed."
-    package git
-	check_pkg_mngr
-	install_package
-elif ! command_exists whiptail; then
-    echo "Error: whiptail is not installed."
-    package_manager=$(detect_package_manager)
-    if [ "$package_manager" = "yum" ] || [ "$package_manager" = "dnf" ] || [ "$package_manager" = "zypper" ]; then
-		package newt
-		check_pkg_mngr
-		install_package
-    fi
-	package whiptail
-	check_pkg_mngr
-	install_package
-fi
+install_pkg git
+install_pkg whiptail newt
 
 # Clone .git folder -> Lightweigh checkout
 git clone --filter=blob:none --no-checkout "$git_url"
