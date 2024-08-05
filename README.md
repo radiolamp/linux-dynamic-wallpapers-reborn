@@ -1,10 +1,8 @@
 <h1 align="center">Linux Dynamic Wallpapers</h1>
 <img src=screenshots/SettingsScreenshot.png >
 <p align="center">
-	<a href="https://www.gnome-look.org/p/1499429"><img src=https://img.shields.io/badge/Rank%20on%20Gnome--look.org-First-%23FFD700%20?logo=gnome&logoColor=lightgrey&labelColor=303030 /></a>
 </p>
 
-## 🎨 Preview
 ### Abstract
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
@@ -139,49 +137,32 @@
 -->
 
 ## :gear: Installation:
-#### RECOMMEND: Easy, Time and data saving :star:
-1. Open Terminal
-2. Run the following command:
-    ```
-    curl -s https://raw.githubusercontent.com/Chillsmeit/Linux_Dynamic_Wallpapers/main/interactive-install.sh -o /tmp/interactive-install.sh && sudo bash /tmp/interactive-install.sh
-    ```
-3. Select the walpapers you wish to install from the list
-4. Script will download and install only selected ones
-5. Change your wallpaper from: Settings > Backgrounds
-6. That's it. Enjoy! :tada:
-
-#### Method 2: Easy but time & data consuming :hourglass_flowing_sand:
-
-1. Open Terminal
-2. Run the following command:
-	```
-	curl -s "https://raw.githubusercontent.com/Chillsmeit/Linux_Dynamic_Wallpapers/main/easy-install.sh" | sudo bash
-	```
+#### Method 1: Interactive Install (needs Whiptail)
+1. Paste the following in terminal:
+```
+curl -s https://raw.githubusercontent.com/Chillsmeit/linux-dynamic-wallpapers/main/interactive-install.sh -o /tmp/interactive-install.sh && sudo bash /tmp/interactive-install.sh
+```
+2. Select the walpapers you wish to install from the list
+3. Use Arrow keys to navigate and Space to Select
 4. Change your wallpaper from: Settings > Backgrounds
-5. That's it. Enjoy! :tada:
+
+#### Method 2: Selective Manual install
+
+1. Paste the following in terminal:
+```
+curl -s "https://raw.githubusercontent.com/Chillsmeit/linux-dynamic-wallpapers/main/easy-install.sh" | sudo bash
+```
+2. Change your wallpaper in: Settings > Appearance
 
 #### Method 3: Full Install
 
-1. Download package:
+1. Paste the following in terminal:
+```
+git clone https://github.com/Chillsmeit/linux-dynamic-wallpapers
+cd linux-dynamic-wallpapers
+chmod +x full-install.sh
+./install.sh
+```
 
-    - If you already cloned repository, just pull to fetch recent changes:
-
-        ```
-        cd ~/Linux_Dynamic_Wallpapers
-        git pull
-        ```
-
-    - If not, clone git repository:
-
-      ```
-      cd ~
-      git clone https://github.com/Chillsmeit/Linux_Dynamic_Wallpapers.git
-      cd Linux_Dynamic_Wallpapers
-      ```
-
-2. Run the command:
-
-    	sudo bash ./install.sh
-
-3. Change your wallpaper from: Settings > Backgrounds
+2. Change your wallpaper in: Settings > Appearance
 
