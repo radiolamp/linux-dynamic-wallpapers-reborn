@@ -140,7 +140,7 @@
 #### Method 1: Interactive Install (needs Whiptail)
 1. Paste the following in terminal:
     ```
-    curl -s https://raw.githubusercontent.com/Chillsmeit/linux-dynamic-wallpapers/main/selective-interactive-install.sh -o /tmp/selective-interactive-install.sh && sudo bash /tmp/selective-interactive-install.sh
+    curl -s https://raw.githubusercontent.com/Chillsmeit/linux-dynamic-wallpapers/main/selective-interactive-install.sh | bash
     ```
 2. Select the walpapers you wish to install from the list
 3. Use Arrow keys to navigate and Space to Select
@@ -150,7 +150,7 @@
 
 1. Paste the following in terminal:
     ```
-    curl -s "https://raw.githubusercontent.com/Chillsmeit/linux-dynamic-wallpapers/main/full-install-remote.sh" | sudo bash
+    curl -s "https://raw.githubusercontent.com/Chillsmeit/linux-dynamic-wallpapers/main/full-install-remote.sh" | bash
     ```
 2. Change your wallpaper in: Settings > Appearance
 
