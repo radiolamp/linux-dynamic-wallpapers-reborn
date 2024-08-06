@@ -6,7 +6,7 @@ confirm() {
 
 	while true; do
 		echo "$prompt"
-		read -p "Enter your choice (y/n): " answer
+		read -p "Enter your choice (y/n): " answer < /dev/tty
 		case "${answer,,}" in
 			y|yes) return 0 ;;
 			n|no) return 1 ;;
