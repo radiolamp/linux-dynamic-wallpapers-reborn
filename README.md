@@ -1,3 +1,9 @@
+<h1 align="center">Linux Dynamic Wallpapers</h1>
+<img src=https://github.com/Chillsmeit/linux-dynamic-wallpapers/raw/main/screenshots/SettingsScreenshot.png >
+<p align="center">
+</p>
+
+## :gear: Installation:
 
 #### Build utilities:
 * `meson`
@@ -5,12 +11,10 @@
 
 ### Building:
 
-#### latest
 ```shell
 meson setup build
 ```
 
-### Install:
 ```shell
 sudo ninja -C build install
 ```
