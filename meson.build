@@ -1,3 +1,6 @@
+# This code is distributed under the Apache License, Version 2.0.
+# The full text of the license can be found in the LICENSE file or at: https://www.apache.org/licenses/LICENSE-2.0
+
 project('Dynamic_Wallpapers', 'c')
 
 prefix = '/usr'
